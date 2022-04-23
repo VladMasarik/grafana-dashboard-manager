@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: grafanathing
+  description: |
+    Backstage is an open-source developer portal that puts the developer experience first.
+  links:
+    - title: Website
+      url: http://backstage.io
+  annotations:
+    snyk.io/org-name: myorg-testing
+    snyk.io/project-ids: "40c22c68-4dcb-4a48-a32d-1e47b0eb4b8f,f92b1623-0abb-49d9-aa21-12ab83142741"

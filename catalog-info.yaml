@@ -10,3 +10,7 @@ metadata:
   annotations:
     snyk.io/org-name: myorg-testing
     snyk.io/project-ids: "40c22c68-4dcb-4a48-a32d-1e47b0eb4b8f,f92b1623-0abb-49d9-aa21-12ab83142741"
+spec:
+  type: library
+  owner: vlad
+  lifecycle: experimental
